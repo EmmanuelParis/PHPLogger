@@ -1,5 +1,5 @@
 {
-    "name": "emmanuel-paris/sistema-logs",
+    "name": "softknight/logger",
     "description": "Um gerenciador para logs em PHP",
     "type": "library",
     "license": "MIT",
