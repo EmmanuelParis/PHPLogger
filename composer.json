@@ -1,0 +1,22 @@
+{
+    "name": "emmanuel-paris/sistema-logs",
+    "description": "Um gerenciador para logs em PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emmanuel Páris",
+            "email": "emmanuelparis2005@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SoftKnight\\Logger\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "monolog/monolog": "^3.10"
+    }
+    
+}
